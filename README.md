@@ -1,5 +1,3 @@
-# atividades_java-19-09
-
 # Primeira aplicação
 
 Criem uma aplicação que possua ao menos quatro classes, uma executável e outras três modelando objetos.
