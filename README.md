@@ -1,6 +1,6 @@
 # atividades_java-19-09
 
-#Primeira aplicação
+# Primeira aplicação
 
 Criem uma aplicação que possua ao menos quatro classes, uma executável e outras três modelando objetos.
 
@@ -8,7 +8,7 @@ Dessas três classes, uma delas será um objeto "principal" que possuirá as out
 
 No sistema será possível criar, remover e listar tais objetos utilizando ArrayList.
 
-#Segunda aplicação
+# Segunda aplicação
 
 Crie uma aplicação para registrar personagens de RPG de mesa.
 
